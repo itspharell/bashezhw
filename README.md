@@ -1,4 +1,4 @@
-# bashezhw
+# ezpchwinfo
 <h4>Make hardware info easy.</h4>
 <h2>EZ PC Hardware Information bash script! Aoya!</h2>
 </br>
